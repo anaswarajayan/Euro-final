@@ -1,0 +1,36 @@
+.bet-option {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 150px;
+    margin: 10px;
+  }
+  
+  .flag {
+    width: 100px;
+    height: 80px;
+   
+  }
+  
+  .bet-details {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .bet-button {
+    background-color: #28a745;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .bet-button:hover {
+    background-color: #218838;
+  }
+  
